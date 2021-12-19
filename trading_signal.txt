@@ -4,7 +4,7 @@ Date: PD2021121900218
 
 Select ：Fall
 
-Amount:  0.8  USDT
+Amount:  0.2  USDT
 
 Stage:  4  Select 5 minutes
 
